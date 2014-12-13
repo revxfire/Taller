@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Presentacion/img/1418342231_678092-sign-add-128.png</file>
+        <file>Presentacion/img/1418342246_678069-sign-error-128.png</file>
+        <file>Presentacion/img/1418342251_star-128.png</file>
+        <file>Presentacion/img/1418342255_678134-sign-check-128.png</file>
+        <file>Presentacion/img/1418342268_user-id-128.png</file>
+        <file>Presentacion/img/1418342269_floppy-128.png</file>
+        <file>Presentacion/img/1418342271_calendar-alt-128.png</file>
+        <file>Presentacion/img/1418342273_678118-filter-128.png</file>
+        <file>Presentacion/img/1418342282_678124-wrench-screwdriver-128.png</file>
+        <file>Presentacion/img/1418342284_678113-database-128.png</file>
+        <file>Presentacion/img/1418342287_678102-cog-128.png</file>
+        <file>Presentacion/img/1418342289_search-128.png</file>
+        <file>Presentacion/img/1418342302_678129-lock-128.png</file>
+        <file>Presentacion/img/1418342303_lock-open-128.png</file>
+        <file>Presentacion/img/1418342317_678075-sign-ban-128.png</file>
+        <file>Presentacion/img/1418342319_678107-paperclip-128.png</file>
+        <file>Presentacion/img/1418342486_678126-box-in-128.png</file>
+        <file>Presentacion/img/1418342487_678091-box-out-128.png</file>
+        <file>Presentacion/img/1418342495_image-128.png</file>
+        <file>Presentacion/img/1418346609_678116-calendar-128.png</file>
+        <file>Presentacion/img/1418365821_file-pdf-128.png</file>
+        <file>Presentacion/img/1418366242_calculator.png</file>
+        <file>Presentacion/img/1418368581_notepad-128.png</file>
+        <file>Presentacion/img/1418368777_678081-life-buoy-128.png</file>
+        <file>Presentacion/img/1418372952_printer-green.png</file>
+        <file>Presentacion/img/1418379183_camera-alt-128.png</file>
+    </qresource>
+</RCC>
